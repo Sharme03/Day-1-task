@@ -1,0 +1,14 @@
+2. Write a blog about objects and its internal representation in Javascript
+
+Ans:
+Objects: 
+a. Objects are most important data types of Javascript.
+b. Objects are different from JavaScript’s primitive data types(i.e. Number, String, Boolean, null, undefined and symbol).
+c. Primitive data types contains one value but objects can hold many values in form of keys.
+d. Keys can be variable or functions and are called properties and methods respectively.
+e. Forexample:
+    var myCar = new Objects();
+        myCar.make=”Suzuki”;
+        myCar.model= “Altros”;
+        myCar.year=1978;
+ In this example myCar is object and the values inside the object is keys it can be accessed using these keys
